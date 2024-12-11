@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-router-dom": "^7.0.1",
+    "sequelize": "^6.37.5"
+  }
+}
